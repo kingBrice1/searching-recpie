@@ -64,7 +64,7 @@ export default function SearchBar({ isError, isLoading, setData }) {
           onClick={clickHandler}
           className="mt-32 outline-none h-12 w-16 rounded-e-md text-xl font-semibold bg-gray-700 text-white transition-all hover:bg-gray-500"
         >
-          click2
+          search
         </button>
       </div>
     </>
